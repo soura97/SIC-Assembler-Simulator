@@ -35,6 +35,12 @@ BYTE  WORD  RESB  RESW
 * storeByte()		: Stores a Byte.
 * storeWord()		: Stores a Word
 
+# Running SicEmu
+Go to the folder containing SicEmu.java and enter following in the terminal
+
+$ javac SicEmu.java
+$ java SicEmu
+
 # General Usage Guide
 1.	Write or paste your SIC code on the middle text area.
 
