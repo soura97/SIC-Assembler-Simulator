@@ -18,11 +18,33 @@ For storing and retrieving last instruction address before processing JSUB.
 
 # Instructions implemented
 * *ADD*
-AND
-STA
-STCH
-STX
-STL
-LDA
-LDCH
-LDX
+* *AND*
+* *STA*
+* *STCH*
+* *STX*
+* *STL*
+* *LDA*
+* *LDCH*
+* *LDX*
+* *COMP*	
+* *MUL*
+* *DIV*
+* *SUB*
+* *OR*
+* *LDL*
+* *TIX*
+* *JSUB*
+* *RSUB*
+* *JLT*	
+* *JGT*
+* *JEQ*
+* *JUMP*
+* *START*
+* *END*
+## AssemblerDirectives
+* *BYTE*
+* *WORD*
+* *RESB*
+* *RESW*
+ 
+
