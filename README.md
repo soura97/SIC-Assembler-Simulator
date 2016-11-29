@@ -41,7 +41,7 @@ For storing and retrieving last instruction address before processing JSUB.
 * *JUMP*
 * *START*
 * *END*
-## AssemblerDirectives
+* AssemblerDirectives
 * *BYTE*
 * *WORD*
 * *RESB*
